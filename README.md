@@ -4,12 +4,6 @@ The intention is to use this repository to host our internal coding guidelines f
 
 Resources used in the creation of these guides will be referenced.
 
-You can use the [editor on GitHub](https://github.com/monagis/codeguide/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-
 ### Guides
 
 - [Python](https://monagis.github.io/codeguide/)
