@@ -6,6 +6,6 @@ Resources used in the creation of these guides will be referenced.
 
 ### Guides
 
-- [Python](https://monagis.github.io/codeguide/)
+- [Python](python.md)
 - HTML / CSS
 - Javascript
