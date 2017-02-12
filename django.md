@@ -98,7 +98,7 @@ def my_view(req, foo):
 
 ## Templates
 
-```html
+```
 # Do This:
 
 {{ foo }}
