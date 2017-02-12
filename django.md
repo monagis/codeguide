@@ -99,6 +99,7 @@ def my_view(req, foo):
 ## Templates
 
 ```
+{% raw %}
 # Do This:
 
 {{ foo }}
@@ -106,5 +107,6 @@ def my_view(req, foo):
 # Don’t do this:
 
 {{foo}}
+{% endraw %}
 ```
 
